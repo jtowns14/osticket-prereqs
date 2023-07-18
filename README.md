@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>1.	To begin, the first task is to create a virtual machine by visiting https://portal.azure.com/. Configure the virtual machine with Windows 10 Pro, version 22H2. Make sure to select at least 2 vCPUs and 16 GBs of memory when creating the virtual machine.</h2>
 
-<h2>2.	After successfully setting up the virtual machine, the next step is to establish a connection to it using the public IP address assigned to the VM. Employ the Remote Desktop Connection application for the connection process.</h2>
+</h2>2.	After successfully setting up the virtual machine, the next step is to establish a connection to it using the public IP address assigned to the VM. Employ the Remote Desktop Connection application for the connection process.</h2>
 
 ![image](https://github.com/jtowns14/osticket-prereqs/assets/139197948/727f377d-bcc3-4240-9574-b77fa6fdb500)
 
