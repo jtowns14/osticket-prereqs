@@ -32,6 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>2.	After successfully setting up the virtual machine, the next step is to establish a connection to it using the public IP address assigned to the VM. Employ the Remote Desktop Connection application for the connection process.</h2>
 
+![image](https://github.com/jtowns14/osticket-prereqs/assets/139197948/727f377d-bcc3-4240-9574-b77fa6fdb500)
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
